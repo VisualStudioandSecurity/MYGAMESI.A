@@ -1,0 +1,6 @@
+{
+  "name": "Super Marco: Reino dos Blocos",
+  "description": "Jogo de plataforma 2D no estilo clássico com física responsiva, blocos misteriosos, power-ups, inimigos variados e 3 fases desafiadoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
